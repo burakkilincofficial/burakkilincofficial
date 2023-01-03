@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://burakilinc.com](https://burakilinc.com)
 
-- 💬 Ask me about **Java, Microservices, Basch-Scriping**
+- 💬 Ask me about **Java, Microservices, Basch-Scripting**
 
 - 📫 How to reach me **burakkilincofficial@gmail.com**
 

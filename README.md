@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Burak KILINC</h1>
+<h1 align="center">Hi 👋, I'm Burak KILINÇ</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakkilincofficial&label=Profile%20views&color=0e75b6&style=flat" alt="burakkilincofficial" /> </p>

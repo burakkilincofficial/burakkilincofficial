@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.turkcell.com.tr" target="blank"><img align="center" src="https://ffo3gv1cf3ir.merlincdn.net/static_lib/assetsv2/common/images/content/turkcell-logo.png?1773534948011" alt="turkcell" height="30" width="40" />Turkcell</a>
 
-- 📝 I regularly write articles on [https://burakilinc.com](https://burakilinc.com)
+- 📝 I regularly write articles on [https://burakilinc.com](https://burak-kilinc-blog.vercel.app/)
 
 - 💬 Ask me about **Java, Microservices, Basch-Scripting**
 
